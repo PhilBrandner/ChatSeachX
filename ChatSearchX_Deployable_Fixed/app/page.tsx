@@ -1,18 +1,9 @@
-{
-  "name": "chatsearchx",
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "14.1.4",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
-  },
-  "devDependencies": {
-    "@types/react": "^18.2.0",
-    "@types/node": "^20.0.0"
-  }
+// app/page.tsx
+export default function Home() {
+  return (
+    <main>
+      <h1>Willkommen bei ChatSearchX</h1>
+      <p>Die Suche, die alles kann – bald.</p>
+    </main>
+  );
 }
