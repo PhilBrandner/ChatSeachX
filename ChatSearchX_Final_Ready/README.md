@@ -1,3 +1,0 @@
-# ChatSearchX
-
-Finale, einsatzbereite Version.
